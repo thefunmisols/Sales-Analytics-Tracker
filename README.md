@@ -1,6 +1,8 @@
 # Sales-Analytics-Tracker
 I designed and developed an interactive Sales Analytics Tracker in Power BI to help business leaders monitor sales person performance, uncover profit opportunities in products, regions and geographical locations, and make data-driven decisions at a glance.
 
+<img width="587" height="335" alt="Sales Analytics Dashbaord" src="https://github.com/user-attachments/assets/780d626d-47ac-4293-a113-afcb9f8df25c" />
+
 **Project Objectives**
 
 Track overall sales performance and profitability
