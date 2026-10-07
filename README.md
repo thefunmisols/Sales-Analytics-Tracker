@@ -9,7 +9,7 @@ Track overall sales performance and profitability
 
 Analyze product-level contribution to total profit
 
-Identify top-performing regions and market
+Identify top-performing regions and markets
 
 Evaluate sales team performance and contribution
 
